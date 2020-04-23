@@ -1,0 +1,2 @@
+id	name	element	description	imagepath	power	attack	defense
+65	Air Funnel	AIR	Technique to create a cannon for small projectiles.	src/res/image/Air Funnel.png	2	4	0

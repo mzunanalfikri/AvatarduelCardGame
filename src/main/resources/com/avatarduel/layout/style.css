@@ -1,0 +1,17 @@
+.root {
+     -fx-background-image: url("../image/background_main2.jpg");
+}
+
+.progress-bar > .bar {
+    -fx-padding:0;
+    -fx-background-radius:0;
+    -fx-background-insets: 0;
+    -fx-background-color: red;
+}
+
+.progress-bar > .track {
+   -fx-background-color: lightgray, white;
+   -fx-background-radius:0;
+   -fx-background-insets: 0, 1;
+
+}
